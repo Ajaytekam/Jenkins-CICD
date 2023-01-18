@@ -1,7 +1,7 @@
 # CICD Jenkins Pipeline Project 
 
 
-DevOps CI/CD Project To Deploy Java Application using with Jenkins pipeline. Tools used Jenkins, Git, Terraform, Docker Engine, AWS Cloud (EC2,ECR,ECS), SonarQube, Nexus Repositoty Manager. 
+DevOps CI/CD Project To Deploy Java Application using with Jenkins pipeline. Tools used Jenkins, Git, Terraform, Docker Engine, AWS Cloud (EC2,ECR,ECS), SonarQube, Nexus Repository Manager. 
 
 ## CICD Pipeline Workflow Diagram 
 
