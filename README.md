@@ -7,7 +7,7 @@ DevOps CI/CD Project To Deploy Java Application using with Jenkins pipeline. Too
 
 
 ```mermaid   
-flowchart LR
+flowchart TD
     s1[Github Push Trigger Pipeline] --> s2(Git Checkout)
     s2 --> s3(Maven Unit Testing)
     s3 --> s4(Maven Integration Testing)   
